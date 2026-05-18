@@ -1,6 +1,7 @@
 # HVRLocator
 
-HVRLocator is a workflow to identify spanning hypervariable region(s) from amplicon sequencing variants or SRA public runs (SRR). It aligns query sequences to a reference E. coli full-length 16S rRNA gene and identifies the spanning region through alignment. DOI: https://doi.org/10.1093/gigascience/giag040 
+HVRLocator is a workflow to identify spanning hypervariable region(s) from amplicon sequencing variants or SRA public runs (SRR). It aligns query sequences to a reference E. coli full-length 16S rRNA gene and identifies the spanning region through alignment. 
+DOI: https://doi.org/10.1093/gigascience/giag040 
 
 ## Using Singularity to run HVRLocator (Recommended)
 
